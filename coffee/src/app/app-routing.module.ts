@@ -10,7 +10,7 @@ const routes: Routes = [
   { path: '', component: NavbarComponent },
   { path: 'landing', component: LandingComponent },
   { path: 'about', component: AboutUsComponent},
-  // { path: 'plan', component: PlanComponent},
+  { path: 'plan', component: PlanComponent},
   { path: 'footer', component: FooterComponent},
 ];
 
